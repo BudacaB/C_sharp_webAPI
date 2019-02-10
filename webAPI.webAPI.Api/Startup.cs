@@ -6,6 +6,7 @@ using System.Web.Http;
 using Ninject.Web.Common.OwinHost;
 using Ninject.Web.WebApi.OwinHost;
 using Owin;
+using Swashbuckle.Application;
 
 namespace webAPI.webAPI.Api
 {
@@ -15,6 +16,11 @@ namespace webAPI.webAPI.Api
         {
             LoggingConfig.Register();
             HttpConfiguration config = new HttpConfiguration();
+            config.Routes.MapHttpRoute(name: "swagger_root",
+            routeTemplate: "",
+            defaults: null,
+            constraints: null,
+            handler: new RedirectHandler((message => message.RequestUri.ToString()), "swagger"));
             SwaggerConfig.Register(config);
 
             WebApiConfig.Register(config);
