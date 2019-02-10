@@ -1,0 +1,15 @@
+C:\Users\Irene\Desktop\Proiecte_with_B\C_sharp_webAPI\C_sharp_webAPI\webAPI.webAPI.Tests.Unit\bin\Debug\webAPI.Tests.Unit.dll
+C:\Users\Irene\Desktop\Proiecte_with_B\C_sharp_webAPI\C_sharp_webAPI\webAPI.webAPI.Tests.Unit\bin\Debug\webAPI.Tests.Unit.pdb
+C:\Users\Irene\Desktop\Proiecte_with_B\C_sharp_webAPI\C_sharp_webAPI\webAPI.webAPI.Tests.Unit\bin\Debug\Machine.Fakes.Adapters.Moq.dll
+C:\Users\Irene\Desktop\Proiecte_with_B\C_sharp_webAPI\C_sharp_webAPI\webAPI.webAPI.Tests.Unit\bin\Debug\Machine.Fakes.dll
+C:\Users\Irene\Desktop\Proiecte_with_B\C_sharp_webAPI\C_sharp_webAPI\webAPI.webAPI.Tests.Unit\bin\Debug\Machine.Specifications.Clr4.dll
+C:\Users\Irene\Desktop\Proiecte_with_B\C_sharp_webAPI\C_sharp_webAPI\webAPI.webAPI.Tests.Unit\bin\Debug\Machine.Specifications.dll
+C:\Users\Irene\Desktop\Proiecte_with_B\C_sharp_webAPI\C_sharp_webAPI\webAPI.webAPI.Tests.Unit\bin\Debug\Moq.dll
+C:\Users\Irene\Desktop\Proiecte_with_B\C_sharp_webAPI\C_sharp_webAPI\webAPI.webAPI.Tests.Unit\bin\Debug\Machine.Fakes.xml
+C:\Users\Irene\Desktop\Proiecte_with_B\C_sharp_webAPI\C_sharp_webAPI\webAPI.webAPI.Tests.Unit\bin\Debug\Machine.Fakes.Adapters.Moq.xml
+C:\Users\Irene\Desktop\Proiecte_with_B\C_sharp_webAPI\C_sharp_webAPI\webAPI.webAPI.Tests.Unit\bin\Debug\Moq.xml
+C:\Users\Irene\Desktop\Proiecte_with_B\C_sharp_webAPI\C_sharp_webAPI\webAPI.webAPI.Tests.Unit\obj\Debug\webAPI.webAPI.Tests.Unit.csprojAssemblyReference.cache
+C:\Users\Irene\Desktop\Proiecte_with_B\C_sharp_webAPI\C_sharp_webAPI\webAPI.webAPI.Tests.Unit\obj\Debug\webAPI.webAPI.Tests.Unit.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Desktop\Proiecte_with_B\C_sharp_webAPI\C_sharp_webAPI\webAPI.webAPI.Tests.Unit\obj\Debug\webAPI.webAPI.Tests.Unit.csproj.CopyComplete
+C:\Users\Irene\Desktop\Proiecte_with_B\C_sharp_webAPI\C_sharp_webAPI\webAPI.webAPI.Tests.Unit\obj\Debug\webAPI.Tests.Unit.dll
+C:\Users\Irene\Desktop\Proiecte_with_B\C_sharp_webAPI\C_sharp_webAPI\webAPI.webAPI.Tests.Unit\obj\Debug\webAPI.Tests.Unit.pdb
